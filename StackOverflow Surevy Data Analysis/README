@@ -1,0 +1,8 @@
+I used excel to gain insights on factors, such as education level, years of experience and number of programming languages they knew
+that affect the compensation of individuals who use programming in their respective fields.
+I also looked at the top languages they used and their current positions. 
+This data gives users and other devlopers insights on factors that would impact their compensation levels and 
+shows the professional background and skills they should look at developing.
+
+Raw data can be found here: https://insights.stackoverflow.com/survey
+The 2022 survey was used.
